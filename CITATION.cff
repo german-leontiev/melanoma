@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the repository and the underlying model papers listed in the documentation."
+title: "Melanoma Screening Research: ResNeXt50 with CBAM"
+type: software
+authors:
+  - family-names: Karpov
+    given-names: Igor
+  - family-names: Leontiev
+    given-names: German
+    orcid: "https://orcid.org/0009-0007-4618-5820"
+repository-code: "https://github.com/german-leontiev/melanoma"
+url: "https://derma.german-leontiev.com"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-21
